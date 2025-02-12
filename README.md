@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a website that lists different recipes. Completing this project demonstrates my ability to create a basic html website and manipulate its contents. I show that I am able to format the text, links, and imagex using the proper elements and tags.
