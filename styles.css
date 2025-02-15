@@ -27,6 +27,14 @@ body.home div {
     margin-bottom: 10px;
 }
 
+button {
+    display: block;
+    width: 400px;
+    margin: 5px auto;
+    background-color: white;
+    color: #6879D0;
+}
+
 .header {
     font-size: 40px;
 }
