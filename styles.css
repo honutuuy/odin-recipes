@@ -2,6 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     box-sizing: border-box;
+    background-color: #DFF2FF;
 }
 
 img {
@@ -13,13 +14,17 @@ h1,
 h3 {
     font-weight: bold;
     font-size: 20px;
-    background-color: lightskyblue;
+    background-color: #9EC2FF;
     color: black;
     text-align: center;
+    padding: 5px;
+    margin: 2px;
+    border: #6879D0 solid 4px;
 }
 
 body.home div {
     color: black;
+    margin-bottom: 10px;
 }
 
 .header {
