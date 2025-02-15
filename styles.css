@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
+    box-sizing: border-box;
 }
 
 img {
@@ -12,9 +13,13 @@ h1,
 h3 {
     font-weight: bold;
     font-size: 20px;
-    background-color: orange;
-    color: white;
+    background-color: lightskyblue;
+    color: black;
     text-align: center;
+}
+
+body.home div {
+    color: black;
 }
 
 .header {
